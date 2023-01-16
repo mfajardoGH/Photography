@@ -3,5 +3,6 @@
 Canon
 Nikon
 Sony
-Pentax
-Fujifilm
+Pentax!
+Fuji
+
